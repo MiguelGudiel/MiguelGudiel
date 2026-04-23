@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/miguelgudiel)
 <!--
 **MiguelGudiel/MiguelGudiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
